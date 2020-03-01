@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-table/static/css/main.8c1cc53c.chunk.css",
+    "main.js": "/react-table/static/js/main.d9002437.chunk.js",
+    "main.js.map": "/react-table/static/js/main.d9002437.chunk.js.map",
+    "runtime-main.js": "/react-table/static/js/runtime-main.060b5625.js",
+    "runtime-main.js.map": "/react-table/static/js/runtime-main.060b5625.js.map",
+    "static/css/2.28b0024a.chunk.css": "/react-table/static/css/2.28b0024a.chunk.css",
+    "static/js/2.40ed70e5.chunk.js": "/react-table/static/js/2.40ed70e5.chunk.js",
+    "static/js/2.40ed70e5.chunk.js.map": "/react-table/static/js/2.40ed70e5.chunk.js.map",
+    "index.html": "/react-table/index.html",
+    "precache-manifest.1197d5f10da80f297306d3d46c2315ac.js": "/react-table/precache-manifest.1197d5f10da80f297306d3d46c2315ac.js",
+    "service-worker.js": "/react-table/service-worker.js",
+    "static/css/2.28b0024a.chunk.css.map": "/react-table/static/css/2.28b0024a.chunk.css.map",
+    "static/css/main.8c1cc53c.chunk.css.map": "/react-table/static/css/main.8c1cc53c.chunk.css.map",
+    "static/js/2.40ed70e5.chunk.js.LICENSE.txt": "/react-table/static/js/2.40ed70e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.060b5625.js",
+    "static/css/2.28b0024a.chunk.css",
+    "static/js/2.40ed70e5.chunk.js",
+    "static/css/main.8c1cc53c.chunk.css",
+    "static/js/main.d9002437.chunk.js"
+  ]
+}
